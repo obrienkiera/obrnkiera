@@ -17,7 +17,7 @@
     "uniqCompNum": 49,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x1284.png",
+    "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x1285.png",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
@@ -462,7 +462,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/asset-52x-344x454.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-54x-688x908.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -480,7 +480,7 @@
             }
           },
           "title": "",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "<p>If you have a design idea, want to collaborate or blah blah then hit me up.</p>",
           "_tags": [
             "Theme"
           ],
