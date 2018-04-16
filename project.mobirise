@@ -17,7 +17,7 @@
     "uniqCompNum": 49,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x1288.png",
+    "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
     "noImageResize": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
@@ -244,7 +244,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-132x-230x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -403,7 +403,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-132x-230x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -441,9 +441,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": "4",
+            "imageSize": "40",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -480,7 +480,7 @@
             }
           },
           "title": "",
-          "text": "<p>If you have a design idea, want to collaborate or blah blah then hit me up.</p>",
+          "text": "<p>If you have a design idea, need someone to get the job done or want to collaborate? Let's talk.</p>",
           "_tags": [
             "Theme"
           ],
@@ -497,8 +497,9 @@
             ".mbr-article P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "24px",
-              "color": "#32a5b6"
+              "font-size": "22px",
+              "color": "#32a5b6",
+              "text-align": "center"
             }
           },
           "headerAlign": "left",
@@ -592,7 +593,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-132x-230x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
