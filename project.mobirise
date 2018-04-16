@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -435,7 +435,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "24",
+            "imageSize": "35",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -474,7 +474,7 @@
             }
           },
           "title": "",
-          "text": "<p>If you have a design idea, need someone to get the job done or want to collaborate? Let's talk.</p>",
+          "text": "<p>If you have a design idea, need someone to get the job done or want to collaborate? <a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">Let's talk</a>.</p>",
           "_tags": [
             "Theme"
           ],
