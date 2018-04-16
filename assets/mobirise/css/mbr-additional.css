@@ -29,36 +29,6 @@
 }
 
 
-
-#header2-y .btn {
-  font-family: 'Ubuntu', sans-serif;
-}
-#header2-y P {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 24px;
-  text-align: left;
-  color: #32a5b6;
-}
-#contacts1-10 B {
-  color: #ffffff;
-}
-#contacts1-10 P {
-  color: #ffffff;
-  font-size: 16px;
-  text-align: left;
-  font-family: 'Ubuntu', sans-serif;
-}
-#ext_menu-13 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-13.mbr-navbar--stuck .mbr-navbar__section {
-  background: #d01d3b;
-}
-#ext_menu-13 .mbr-navbar__hamburger {
-  color: #d01d3b;
-}
-
-
 #msg-box4-1c .mbr-header__text {
   color: #ffffff;
 }
@@ -131,5 +101,40 @@
   background: #d01d3b;
 }
 #ext_menu-1f .mbr-navbar__hamburger {
+  color: #d01d3b;
+}
+
+
+#msg-box4-1h .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1h .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1h .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1h .mbr-article P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 22px;
+  color: #32a5b6;
+  text-align: center;
+}
+#contacts1-1i B {
+  color: #ffffff;
+}
+#contacts1-1i P {
+  color: #ffffff;
+  font-size: 16px;
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+}
+#ext_menu-1j .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1j.mbr-navbar--stuck .mbr-navbar__section {
+  background: #d01d3b;
+}
+#ext_menu-1j .mbr-navbar__hamburger {
   color: #d01d3b;
 }
