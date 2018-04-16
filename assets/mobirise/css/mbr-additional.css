@@ -2,15 +2,6 @@
 
 
 
-#menu-0 .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #d01d3b;
-}
-#menu-0 .mbr-navbar__hamburger {
-  color: #d01d3b;
-}
 #header2-2 .btn {
   font-family: 'Ubuntu', sans-serif;
 }
@@ -27,18 +18,18 @@
   text-align: left;
   font-family: 'Ubuntu', sans-serif;
 }
-
-
-
-#menu-x .mbr-brand__name {
+#ext_menu-13 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-x.mbr-navbar--stuck .mbr-navbar__section {
-  background: #d01d3b;
+#ext_menu-13.mbr-navbar--stuck .mbr-navbar__section {
+  background: #32a5b6;
 }
-#menu-x .mbr-navbar__hamburger {
+#ext_menu-13 .mbr-navbar__hamburger {
   color: #d01d3b;
 }
+
+
+
 #header2-y .btn {
   font-family: 'Ubuntu', sans-serif;
 }
