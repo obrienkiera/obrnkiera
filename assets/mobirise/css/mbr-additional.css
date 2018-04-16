@@ -2,34 +2,6 @@
 
 
 
-#menu-n .mbr-brand__name {
-  font-size: 16px;
-}
-#menu-n.mbr-navbar--stuck .mbr-navbar__section {
-  background: #d01d3b;
-}
-#menu-n .mbr-navbar__hamburger {
-  color: #d01d3b;
-}
-#header2-o .btn {
-  font-family: 'Ubuntu', sans-serif;
-}
-#header2-o P {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 24px;
-}
-#contacts1-q B {
-  color: #ffffff;
-}
-#contacts1-q P {
-  color: #ffffff;
-  font-size: 16px;
-  text-align: left;
-  font-family: 'Ubuntu', sans-serif;
-}
-
-
-
 #menu-0 .mbr-brand__name {
   font-size: 16px;
 }
@@ -50,6 +22,35 @@
   color: #ffffff;
 }
 #contacts1-7 P {
+  color: #ffffff;
+  font-size: 16px;
+  text-align: left;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+#menu-x .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-x.mbr-navbar--stuck .mbr-navbar__section {
+  background: #d01d3b;
+}
+#menu-x .mbr-navbar__hamburger {
+  color: #d01d3b;
+}
+#header2-y .btn {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header2-y P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
+  text-align: left;
+}
+#contacts1-10 B {
+  color: #ffffff;
+}
+#contacts1-10 P {
   color: #ffffff;
   font-size: 16px;
   text-align: left;
