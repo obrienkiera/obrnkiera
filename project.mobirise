@@ -222,7 +222,7 @@
             "color": "#d01d3b",
             "hamburgerColor": "#d01d3b"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -408,7 +408,7 @@
             "color": "#d01d3b",
             "hamburgerColor": "#d01d3b"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -587,7 +587,7 @@
             "color": "#d01d3b",
             "hamburgerColor": "#d01d3b"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -774,7 +774,7 @@
             "color": "#d01d3b",
             "hamburgerColor": "#d01d3b"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"Portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
           "_tags": [
             "Theme"
           ],
