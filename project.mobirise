@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
     "uniqCompNum": 49,
-    "versionPublish": "4.7.1",
+    "versionPublish": "4.6.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
     "noImageResize": "",
@@ -38,7 +38,7 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": true,
             "showButtons": false,
             "showArrow": true,
@@ -84,7 +84,7 @@
             "paddingBottom": 3,
             "noGutter": true,
             "showText": false,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#32a5b6",
             "images": [
               {
@@ -174,14 +174,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/artboard-22x-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-142x-265x148.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
               "link": "index.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -218,7 +217,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#32a5b6",
             "hamburgerColor": "#d01d3b"
           },
@@ -233,9 +232,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#32a5b6"
             },
-            ".mbr-navbar__section": {
-              "background": "#32a5b6"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#d01d3b"
             }
@@ -333,7 +330,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/artboard-22x-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-142x-265x148.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -377,7 +374,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#32a5b6",
             "hamburgerColor": "#d01d3b"
           },
@@ -441,7 +438,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "40",
+            "imageSize": "24",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -523,14 +520,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/artboard-22x-265x265.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-142x-265x148.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
               "link": "index.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -567,7 +563,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#32a5b6",
             "hamburgerColor": "#d01d3b"
           },
@@ -582,9 +578,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#32a5b6"
             },
-            ".mbr-navbar__section": {
-              "background": "#32a5b6"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#d01d3b"
             }
