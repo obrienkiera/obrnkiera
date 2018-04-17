@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "portraits.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -595,7 +595,7 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": false,
+            "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": true,
