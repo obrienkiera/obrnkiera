@@ -83,7 +83,7 @@
             }
           },
           "title": "",
-          "text": "<p>A twenty something design person.</p><p>If you've made it this far then you'll already know that my name is Kiera O'Brien and I'm a designer.&nbsp;<br></p><p>I work across several disciplines including branding, illustration, editorial design and mobile UI.&nbsp;</p><p>Self-taught animator and bookbinder: I am up for any challenge.&nbsp;</p>",
+          "text": "<p>A twenty something design person.</p><p>If you've made it this far then you'll already know that my name is Kiera O'Brien and I'm a designer.&nbsp;</p><p><br></p><p>I work across several disciplines including branding, illustration, editorial design and mobile UI.&nbsp;</p><p>A self-taught animator and bookbinder: I am up for any challenge.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -100,7 +100,7 @@
             ".mbr-article P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "14px",
+              "font-size": "15px",
               "color": "#32a5b6",
               "text-align": "center"
             }
