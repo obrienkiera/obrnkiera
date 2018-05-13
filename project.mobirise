@@ -621,7 +621,14 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header2",
-          "_anchor": "header2-1o"
+          "_anchor": "header2-1o",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            }
+          }
         },
         {
           "_params": {
