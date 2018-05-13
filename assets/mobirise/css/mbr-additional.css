@@ -96,15 +96,18 @@
 }
 
 
-#header2-1o P {
-  font-size: 21px;
+
+#header2-1k .btn {
   font-family: 'Ubuntu', sans-serif;
+}
+#header2-1k P {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
+}
+#contacts1-1m B {
   color: #ffffff;
 }
-#contacts1-7 B {
-  color: #ffffff;
-}
-#contacts1-7 P {
+#contacts1-1m P {
   color: #ffffff;
   font-size: 16px;
   text-align: left;
@@ -121,18 +124,15 @@
 }
 
 
-
-#header2-1k .btn {
+#header2-1o P {
+  font-size: 21px;
   font-family: 'Ubuntu', sans-serif;
-}
-#header2-1k P {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 24px;
-}
-#contacts1-1m B {
   color: #ffffff;
 }
-#contacts1-1m P {
+#contacts1-7 B {
+  color: #ffffff;
+}
+#contacts1-7 P {
   color: #ffffff;
   font-size: 16px;
   text-align: left;
