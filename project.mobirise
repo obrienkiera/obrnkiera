@@ -624,9 +624,10 @@
           "_anchor": "header2-1o",
           "_styles": {
             "P": {
-              "font-size": "22px",
+              "font-size": "21px",
               "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#ffffff"
             }
           }
         },
