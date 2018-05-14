@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 61,
+    "uniqCompNum": 56,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
@@ -33,7 +33,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -83,7 +83,7 @@
             }
           },
           "title": "",
-          "text": "<p>A twenty something design person.</p><p>If you've made it this far then you'll already know that my name is Kiera O'Brien and I'm a designer.&nbsp;</p><p><br></p><p>I work across several disciplines including branding, illustration, editorial design and mobile UI.&nbsp;</p><p>A self-taught animator and bookbinder: I am up for any challenge.&nbsp;</p>",
+          "text": "<p>A twenty something design person.</p><p><br></p><p>If you've made it this far then you'll already know that my name is Kiera O'Brien and I'm a creative</p>",
           "_tags": [
             "Theme"
           ],
@@ -100,7 +100,7 @@
             ".mbr-article P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "16px",
+              "font-size": "22px",
               "color": "#32a5b6",
               "text-align": "center"
             }
@@ -221,7 +221,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -401,7 +401,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -582,14 +582,14 @@
         }
       ]
     },
-    "page4.html": {
+    "home.html": {
       "settings": {
-        "title": "Home2",
+        "main": true,
+        "title": "Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "",
-        "order": 1
+        "html_before": ""
       },
       "components": [
         {
@@ -621,6 +621,7 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header2",
+          "_anchor": "header2-2",
           "_styles": {
             ".btn": {
               "font-family": "'Ubuntu', sans-serif",
@@ -630,241 +631,6 @@
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "24px"
-            }
-          },
-          "_anchor": "header2-1k"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": false,
-            "bgColor": "#32a5b6",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/image12x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image12x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/image52x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image52x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/socialfootballer-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/socialfootballer-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/image32x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image32x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/image62x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image62x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/image72x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image72x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/image42x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image42x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/image82x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image82x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/image92x-2-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image92x-2-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-1l"
-        },
-        {
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#32a5b6",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/asset-142x-265x148.png",
-              "class": "mbr-contacts__img mbr-contacts__img--left",
-              "width": 265,
-              "active": true,
-              "link": "home.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br>www.behance.net/obrienkiera<br><br>",
-          "text3": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "B": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "16px",
-              "text-align": "left",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
-            }
-          },
-          "_anchor": "contacts1-1m"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
-            "color": "#d01d3b",
-            "hamburgerColor": "#d01d3b"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-warning\" data-app-selector=\".mbr-navbar__items a\" href=\"portraits.html\" data-toolbar=\"-mbrBtnMove\">PORTRAITS</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#d01d3b"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#d01d3b"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"home.html\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"about.html\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/asset-142x-230x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "home.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1n"
-        }
-      ]
-    },
-    "home.html": {
-      "settings": {
-        "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "images/bg2.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#32a5b6",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "&nbsp;&nbsp;<br><br>",
-          "text": "I'm Kiera O'Brien, a freelance graphic designer<br>and illustrator based in Liverpool.&nbsp;<br><br>You can find me on <a href=\"http://www.behance.net/obrienkiera\" class=\"text-warning\" target=\"_blank\">Behance</a>, <a href=\"http://www.twitter.com/obrnkiera\" target=\"_blank\" class=\"text-warning\">Twitter</a>,<br><a href=\"http://www.instagram.com/obrien.kiera\" target=\"_blank\" class=\"text-warning\">Instagram</a>, <a href=\"http://www.facebook.com/obrienkiera\" target=\"_blank\" class=\"text-warning\">Facebook</a> and <a href=\"http://www.linkedin.com/in/obrienkiera\" target=\"_blank\" class=\"text-warning\">LinkedIn</a>.<br><br>Want to grab a coffee and have a chat? <a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">Let me know.</a><br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header2",
-          "_anchor": "header2-1o",
-          "_styles": {
-            "P": {
-              "font-size": "21px",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "color": "#ffffff"
             }
           }
         },
@@ -1038,7 +804,8 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "home.html",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1048,7 +815,7 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1n"
+          "_anchor": "ext_menu-13"
         }
       ]
     }
