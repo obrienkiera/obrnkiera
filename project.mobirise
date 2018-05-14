@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "about.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -614,7 +614,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "<br>I'm Kiera O'Brien, a freelance graphic designer and illustrator based in Liverpool.<br><br>You can find me on <a href=\"https://www.behance.net/obrienkiera\" target=\"_blank\" class=\"text-warning\">Behance</a>,&nbsp;<a href=\"https://twitter.com/obrnkiera\" target=\"_blank\" class=\"text-warning\">Twitter</a>, <a href=\"https://www.instagram.com/obrien.kiera/\" target=\"_blank\" class=\"text-warning\">Instagram</a>,&nbsp;<a href=\"https://www.facebook.com/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Facebook</a> and <a href=\"https://www.linkedin.com/in/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Linkedin</a>. <br><br>Want to grab a coffee and have a chat? <br><a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">Let me know</a>.<br><br>",
+          "text": "<br>I'm Kiera O'Brien,<br>a freelance graphic designer and illustrator based in Liverpool.<br><br>You can find me on <a href=\"https://www.behance.net/obrienkiera\" target=\"_blank\" class=\"text-warning\">Behance</a>,&nbsp;<a href=\"https://twitter.com/obrnkiera\" target=\"_blank\" class=\"text-warning\">Twitter</a>, <a href=\"https://www.instagram.com/obrien.kiera/\" target=\"_blank\" class=\"text-warning\">Instagram</a>,&nbsp;<a href=\"https://www.facebook.com/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Facebook</a> and <a href=\"https://www.linkedin.com/in/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Linkedin</a>. <br><br>Want to grab a coffee and have a chat? <br><a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">Let me know</a>.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
             "Theme"
