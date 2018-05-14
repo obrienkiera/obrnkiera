@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "home.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -83,7 +83,7 @@
             }
           },
           "title": "",
-          "text": "<p>A twenty something design person.</p><p><br></p><p>If you've made it this far then you'll already know that my name is Kiera O'Brien and I'm a creative working in design and illustration.</p>",
+          "text": "<p>A twenty something design person.</p><p><br></p><p>If you've made it this far then you'll already know that my name is Kiera O'Brien and I'm a creative working in design and illustration.</p><p>A bookbinder and self taught animator; I am up for any challenge.</p>",
           "_tags": [
             "Theme"
           ],
