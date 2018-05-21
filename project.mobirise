@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "home.html",
+    "currentPage": "portraits.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 58,
+    "uniqCompNum": 59,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
@@ -142,7 +142,7 @@
             }
           },
           "text1": "",
-          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br>www.behance.net/obrienkiera<br><br>",
+          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -292,6 +292,39 @@
           }
         },
         {
+          "_inherit": "gallery1",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": false,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999.png",
+                "thumb": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999-800x800.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/asset-12x-2000x2004.png",
+                "thumb": "@PROJECT_PATH@/assets/images/asset-12x-2000x2004-800x802.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
+              }
+            ]
+          },
+          "articleLayout": true,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-1m"
+        },
+        {
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -322,7 +355,7 @@
             }
           },
           "text1": "",
-          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br>www.behance.net/obrienkiera<br><br>",
+          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -510,7 +543,7 @@
             }
           },
           "text1": "",
-          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br>www.behance.net/obrienkiera<br><br>",
+          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -681,7 +714,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/image72x-1000x1000-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image42x-1000x1000.png",
@@ -702,7 +735,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/image92x-2-1000x1000-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -744,7 +777,7 @@
             }
           },
           "text1": "",
-          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br>www.behance.net/obrienkiera<br><br>",
+          "text2": "<br><br>Kiera O'Brien<br>Designer and Illustrator<br>obrnkiera@gmail.com<br>07896211119<br><br>",
           "text3": "",
           "_tags": [
             "Theme"
