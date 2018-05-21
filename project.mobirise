@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
@@ -83,7 +83,7 @@
             }
           },
           "title": "",
-          "text": "<p>A twenty something design person.</p><p><br></p><p>If you've made it this far then you'll already know that my name is Kiera O'Brien and I'm a creative working in design and illustration.</p><p>A bookbinder and self taught animator; I am up for any challenge.</p><p>If you'd like to know more about my work or just fancy having a nice chat, message me <a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">here</a>.</p>",
+          "text": "<p>A twenty something design person.</p><p><br></p><p>I'm a Liverpool based creative working mostly in graphic design, illustration, branding, editorial design and UI/UX.&nbsp;</p><p>A bookbinder and self taught animator; I am up for any challenge.</p><p>If you'd like to know more about my work or just fancy having a nice chat, get in touch&nbsp;<a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">here</a>.</p>",
           "_tags": [
             "Theme"
           ],
@@ -614,7 +614,7 @@
             "overlayOpacity": 0.5
           },
           "title": "",
-          "text": "<br>I'm Kiera O'Brien,<br>a freelance graphic designer and illustrator based in Liverpool.<br><br>You can find me on <a href=\"https://www.behance.net/obrienkiera\" target=\"_blank\" class=\"text-warning\">Behance</a>,&nbsp;<a href=\"https://twitter.com/obrnkiera\" target=\"_blank\" class=\"text-warning\">Twitter</a>, <a href=\"https://www.instagram.com/obrien.kiera/\" target=\"_blank\" class=\"text-warning\">Instagram</a>,&nbsp;<a href=\"https://www.facebook.com/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Facebook</a> and <a href=\"https://www.linkedin.com/in/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Linkedin</a>. <br><br>Want to grab a coffee and have a chat? <br><a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">Let me know</a>.<br><br>",
+          "text": "<br><br><br>I'm Kiera O'Brien,<br>a freelance graphic designer and illustrator based in Liverpool.<br><br>You can find me on <a href=\"https://www.behance.net/obrienkiera\" target=\"_blank\" class=\"text-warning\">Behance</a>,&nbsp;<a href=\"https://twitter.com/obrnkiera\" target=\"_blank\" class=\"text-warning\">Twitter</a>, <a href=\"https://www.instagram.com/obrien.kiera/\" target=\"_blank\" class=\"text-warning\">Instagram</a>,&nbsp;<a href=\"https://www.facebook.com/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Facebook</a> and <a href=\"https://www.linkedin.com/in/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Linkedin</a>. <br><br>Want to grab a coffee and have a chat? <br><a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">Let me know</a>.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_tags": [
             "Theme"
