@@ -290,7 +290,9 @@
               "color": "#333333"
             },
             "UL": {
-              "color": "#333333"
+              "color": "#333333",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
           }
         },
