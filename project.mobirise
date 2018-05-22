@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 59,
+    "uniqCompNum": 62,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
