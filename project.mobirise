@@ -651,7 +651,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<br>&nbsp;<br><br>",
+          "title": "<br>&nbsp;<br>",
           "text": "I'm Kiera O'Brien, a freelance graphic designer based in Liverpool.<br><br>You can find me on <a href=\"https://www.behance.net/obrienkiera\" target=\"_blank\" class=\"text-warning\">Behance</a>, <a href=\"https://twitter.com/obrnkiera\" target=\"_blank\" class=\"text-warning\">Twitter</a>, <a href=\"https://www.instagram.com/obrien.kiera/\" target=\"_blank\" class=\"text-warning\">Instagram</a>, <a href=\"https://www.facebook.com/obrienkiera/\" target=\"_blank\" class=\"text-warning\">Facebook</a>, and <a href=\"https://www.linkedin.com/in/obrienkiera/\" target=\"_blank\" class=\"text-warning\">LinkedIn</a>.<br><br>Want to grab a coffee and have a chat? <a href=\"mailto:obrnkiera@gmail.com\" class=\"text-warning\">Let me know</a>.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
