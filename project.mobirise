@@ -636,7 +636,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": false,
             "bgImage": "images/bg2.jpg",
