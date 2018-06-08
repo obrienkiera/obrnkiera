@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
+
 #msg-box4-1h .mbr-header__text {
   color: #ffffff;
 }
@@ -34,6 +35,10 @@
 #ext_menu-1j .mbr-navbar__hamburger {
   color: #d01d3b;
 }
+#ext_menu-1j .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+}
+
 
 
 
@@ -74,6 +79,10 @@
 #ext_menu-1f .mbr-navbar__hamburger {
   color: #d01d3b;
 }
+#ext_menu-1f .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+}
+
 
 
 #msg-box4-1c .mbr-header__text {
@@ -109,6 +118,10 @@
 #ext_menu-16 .mbr-navbar__hamburger {
   color: #d01d3b;
 }
+#ext_menu-16 .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+}
+
 
 
 #header2-1s P {
@@ -132,4 +145,7 @@
 }
 #ext_menu-13 .mbr-navbar__hamburger {
   color: #d01d3b;
+}
+#ext_menu-13 .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
 }
