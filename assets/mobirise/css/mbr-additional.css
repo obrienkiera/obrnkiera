@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 
 
-
 #msg-box4-1h .mbr-header__text {
   color: #ffffff;
 }
@@ -34,9 +33,6 @@
 }
 #ext_menu-1j .mbr-navbar__hamburger {
   color: #d01d3b;
-}
-#ext_menu-1j .mbr-navbar__items a {
-  font-family: 'Ubuntu', sans-serif;
 }
 
 
