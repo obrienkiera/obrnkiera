@@ -714,11 +714,11 @@
                 "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/green-500x500.png",
-                "thumb": "@PROJECT_PATH@/assets/images/green-500x500-500x500.png",
+                "image": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999.png",
+                "thumb": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "title": ""
               },
               {
@@ -758,7 +758,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/image4-1655x1655-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "title": ""
               }
             ]
