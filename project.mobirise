@@ -707,39 +707,40 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image52x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image52x-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999.png",
+                "thumb": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/socialfootballer-1000x1000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/socialfootballer-1000x1000-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image32x-1000x1000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/image32x-1000x1000-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image62x-1000x1000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/image62x-1000x1000-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image72x-1000x1000.png",
                 "thumb": "@PROJECT_PATH@/assets/images/image72x-1000x1000-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/image42x-1000x1000.png",
