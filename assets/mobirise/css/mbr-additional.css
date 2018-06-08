@@ -36,11 +36,15 @@
 }
 
 
+
+
 #msg-box1-1r .mbr-header .mbr-header__text {
   color: #fff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #msg-box1-1r .mbr-article {
   color: #fff;
+  font-family: 'Ubuntu', sans-serif;
 }
 #pricing-table1-1g H3 {
   color: #ffffff;
