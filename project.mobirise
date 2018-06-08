@@ -15,7 +15,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "4.7.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
@@ -690,87 +690,85 @@
           }
         },
         {
+          "_inherit": "gallery1",
           "_params": {
             "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
             "noGutter": true,
             "showText": false,
             "showBullets": false,
-            "bgColor": "#32a5b6",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/image12x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image12x-1000x1000-800x800.png",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999.png",
-                "thumb": "@PROJECT_PATH@/assets/images/asset-22x-2000x1999-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/image1-480x480.png",
+                "thumb": "@PROJECT_PATH@/assets/images/image1-480x480-480x480.png",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false,
                 "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/socialfootballer-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/socialfootballer-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/image2-781x781.png",
+                "thumb": "@PROJECT_PATH@/assets/images/image2-781x781-781x781.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image32x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image32x-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/green-500x500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/green-500x500-500x500.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image62x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image62x-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/logo-708x708.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-708x708-708x708.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image72x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image72x-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/asset-12x-1001x1000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/asset-12x-1001x1000-800x799.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image42x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image42x-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/asset-22x-2000x2001.png",
+                "thumb": "@PROJECT_PATH@/assets/images/asset-22x-2000x2001-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image82x-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image82x-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/imge32x-2000x2000.png",
+                "thumb": "@PROJECT_PATH@/assets/images/imge32x-2000x2000-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/image92x-2-1000x1000.png",
-                "thumb": "@PROJECT_PATH@/assets/images/image92x-2-1000x1000-800x800.png",
+                "image": "@PROJECT_PATH@/assets/images/image4-1655x1655.png",
+                "thumb": "@PROJECT_PATH@/assets/images/image4-1655x1655-800x800.png",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true,
+                "title": ""
               }
             ]
           },
-          "articleLayout": false,
+          "articleLayout": true,
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-4"
+          "_name": "gallery2",
+          "_anchor": "gallery2-1t"
         },
         {
           "_params": {
