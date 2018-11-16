@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "home.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -255,7 +255,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/asset-54x-688x908.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-34x-1346x1780.png",
               "link": "",
               "alt": "",
               "title": ""
