@@ -427,7 +427,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/asset-163x-2000x800.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/asset-174x-2000x800.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#ffffff",
