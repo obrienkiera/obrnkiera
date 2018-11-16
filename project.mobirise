@@ -16,7 +16,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.6",
-    "uniqCompNum": 71,
+    "uniqCompNum": 74,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/artboard-12x-128x128.png",
@@ -36,7 +36,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -224,7 +224,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
