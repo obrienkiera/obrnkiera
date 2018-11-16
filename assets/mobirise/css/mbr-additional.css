@@ -20,7 +20,7 @@
   color: #ffffff;
 }
 #contacts1-1i P {
-  color: #ffffff;
+  color: #31a4b5;
   font-size: 16px;
   text-align: left;
   font-family: 'Ubuntu', sans-serif;
@@ -33,50 +33,6 @@
 }
 #ext_menu-1j .mbr-navbar__hamburger {
   color: #d01d3b;
-}
-
-
-
-
-
-#msg-box1-1r .mbr-header .mbr-header__text {
-  color: #fff;
-  font-family: 'Ubuntu', sans-serif;
-}
-#msg-box1-1r .mbr-article {
-  color: #fff;
-  font-family: 'Ubuntu', sans-serif;
-}
-#pricing-table1-1g H3 {
-  color: #ffffff;
-}
-#pricing-table1-1g SPAN {
-  color: #333333;
-}
-#pricing-table1-1g UL {
-  color: #333333;
-  font-family: 'Ubuntu', sans-serif;
-}
-#contacts1-1e B {
-  color: #ffffff;
-}
-#contacts1-1e P {
-  color: #ffffff;
-  font-size: 16px;
-  text-align: left;
-  font-family: 'Ubuntu', sans-serif;
-}
-#ext_menu-1f .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-1f.mbr-navbar--stuck .mbr-navbar__section {
-  background: #d01d3b;
-}
-#ext_menu-1f .mbr-navbar__hamburger {
-  color: #d01d3b;
-}
-#ext_menu-1f .mbr-navbar__items a {
-  font-family: 'Ubuntu', sans-serif;
 }
 
 
@@ -100,7 +56,7 @@
   color: #ffffff;
 }
 #contacts1-15 P {
-  color: #ffffff;
+  color: #31a4b5;
   font-size: 16px;
   text-align: left;
   font-family: 'Ubuntu', sans-serif;
@@ -122,13 +78,14 @@
 
 #header2-1s P {
   font-family: 'Ubuntu', sans-serif;
-  font-size: 23px;
+  font-size: 21px;
+  color: #31a4b5;
 }
 #contacts1-7 B {
   color: #ffffff;
 }
 #contacts1-7 P {
-  color: #ffffff;
+  color: #31a4b5;
   font-size: 16px;
   text-align: left;
   font-family: 'Ubuntu', sans-serif;
