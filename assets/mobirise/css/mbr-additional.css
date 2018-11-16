@@ -76,20 +76,6 @@
 
 
 
-#header2-1s P {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 21px;
-  color: #31a4b5;
-}
-#contacts1-7 B {
-  color: #ffffff;
-}
-#contacts1-7 P {
-  color: #31a4b5;
-  font-size: 16px;
-  text-align: left;
-  font-family: 'Ubuntu', sans-serif;
-}
 #ext_menu-13 .mbr-brand__name {
   font-size: 16px;
 }
@@ -100,5 +86,29 @@
   color: #d01d3b;
 }
 #ext_menu-13 .mbr-navbar__items a {
+  font-family: 'Ubuntu', sans-serif;
+}
+#msg-box4-1y .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1y .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1y .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1y .mbr-article P {
+  color: #31a4b5;
+  text-align: left;
+  font-size: 22px;
+  font-family: 'Ubuntu', sans-serif;
+}
+#contacts1-7 B {
+  color: #ffffff;
+}
+#contacts1-7 P {
+  color: #31a4b5;
+  font-size: 16px;
+  text-align: left;
   font-family: 'Ubuntu', sans-serif;
 }
