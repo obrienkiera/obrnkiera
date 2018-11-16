@@ -132,7 +132,7 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "home.html",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -200,7 +200,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -320,7 +320,7 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "home.html",
+              "link": "index.html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -392,7 +392,7 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -476,9 +476,10 @@
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
-              "link": "home.html",
+              "link": "index.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -547,8 +548,9 @@
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "home.html",
-              "title": ""
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
