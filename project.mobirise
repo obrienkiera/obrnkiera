@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "about.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -534,7 +534,7 @@
               "color": "#ffffff"
             },
             ".mbr-article P": {
-              "color": "#333333",
+              "color": "#31a4b5",
               "text-align": "left",
               "font-size": "22px",
               "font-family": "'Ubuntu', sans-serif",
