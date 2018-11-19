@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "about.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -293,7 +293,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
               "font-size": "22px",
               "color": "#32a5b6",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "headerAlign": "left",
