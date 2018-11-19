@@ -157,7 +157,7 @@
             },
             "P": {
               "color": "#31a4b5",
-              "font-size": "16px",
+              "font-size": "12px",
               "text-align": "left",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
@@ -345,7 +345,7 @@
             },
             "P": {
               "color": "#31a4b5",
-              "font-size": "16px",
+              "font-size": "12px",
               "text-align": "left",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
@@ -591,7 +591,7 @@
             },
             "P": {
               "color": "#31a4b5",
-              "font-size": "16px",
+              "font-size": "12px",
               "text-align": "left",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
