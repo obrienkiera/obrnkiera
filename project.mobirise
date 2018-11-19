@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My site",
-    "currentPage": "index.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -129,7 +129,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/asset-183x-151x84.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-234x-121x68.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -317,7 +317,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/asset-183x-151x84.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-234x-121x68.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -409,7 +409,7 @@
         }
       ]
     },
-    "index.html": {
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -563,14 +563,13 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/asset-183x-151x84.png",
+              "src": "@PROJECT_PATH@/assets/images/asset-234x-121x68.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
               "link": "index.html",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
