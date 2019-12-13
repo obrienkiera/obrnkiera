@@ -126,7 +126,7 @@
             },
             ".media-container-row .mbr-text": {
               "color": "#d01d3b",
-              "text-align": "left"
+              "text-align": "right"
             }
           },
           "_name": "footer6",
@@ -357,7 +357,7 @@
             },
             ".media-container-row .mbr-text": {
               "color": "#d01d3b",
-              "text-align": "left"
+              "text-align": "right"
             }
           },
           "_name": "footer6",
@@ -425,7 +425,7 @@
             },
             ".media-container-row .mbr-text": {
               "color": "#d01d3b",
-              "text-align": "left"
+              "text-align": "right"
             }
           },
           "_name": "footer6",
