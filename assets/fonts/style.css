@@ -1,9 +1,4 @@
 @font-face {
-   font-family: 'SofiaProSemiBold';
-   font-display: swap;
-   src: url('SofiaProSemiBold/font.ttf');
-}
-@font-face {
    font-family: 'SofiaProRegular';
    font-display: swap;
    src: url('SofiaProRegular/font.ttf');
